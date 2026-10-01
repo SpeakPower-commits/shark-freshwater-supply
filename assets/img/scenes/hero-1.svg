@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B2E4F"/><stop offset=".6" stop-color="#0A6C80"/><stop offset="1" stop-color="#F0B858"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1220" cy="300" r="90" fill="#FBE3A8" opacity=".9"/>
+<path d="M0 470 C250 400 450 460 700 430 C950 400 1200 450 1600 410 V900 H0Z" fill="#0F5A63"/>
+<path d="M0 520 C300 470 500 520 800 495 C1100 470 1300 520 1600 480 V900 H0Z" fill="#0B4A55"/>
+<rect y="560" width="1600" height="340" fill="#3A2A1E"/>
+<path d="M0 640 C200 625 400 655 600 640 S1000 625 1200 645 S1500 640 1600 635 V900 H0Z" fill="#4B3626"/>
+<path d="M0 740 C200 722 420 758 640 740 S1040 722 1240 744 S1520 738 1600 732 V900 H0Z" fill="#2DB9C8" opacity=".55"/>
+<path d="M0 820 C220 806 440 834 660 820 S1060 806 1260 824 S1540 818 1600 812 V900 H0Z" fill="#08808D" opacity=".7"/>
+<g transform="translate(560,0)"><g stroke="#fff" stroke-width="6" stroke-linecap="round" fill="none"><path d="M560 540 V860" stroke-dasharray="2 14" opacity=".8"/></g>
+<g transform="translate(560,500)"><path d="M0 40 V-30" stroke="#D9962B" stroke-width="10" stroke-linecap="round"/><path d="M-60 40 L0 -50 L60 40" fill="none" stroke="#E6F4F6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="0" cy="-58" r="10" fill="#D9962B"/></g>
+<g fill="#E6F4F6" opacity=".85"><circle cx="560" cy="860" r="14"/><circle cx="560" cy="860" r="30" fill="none" stroke="#E6F4F6" stroke-width="3"/><circle cx="560" cy="860" r="52" fill="none" stroke="#E6F4F6" stroke-width="2" opacity=".5"/></g>
+</g></svg>
