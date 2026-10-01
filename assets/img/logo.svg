@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 455 124" width="455" height="124">
+<defs><clipPath id="capclip"><rect x="-20" y="0" width="400" height="70"/></clipPath></defs>
+<g>
+<path d="M60 6 L93.55 45.54 A44 44 0 1 1 26.45 45.54 Z" fill="#08808D" stroke="#08808D" stroke-width="4" stroke-linejoin="round"/>
+<path d="M46 96 C55 86 56 66 58 46 C68 55 80 74 86 96 Z" fill="#FFFFFF"/>
+<path d="M26 96 C30 90 31 85 31 78 C36 82 41 89 43 96 Z" fill="#FFFFFF"/>
+<path d="M27 98 Q35 91.5 43 98 T59 98 T75 98 T91 98" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37 107 Q43 102 49 107 T61 107 T73 107 T85 107" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.55"/>
+</g>
+<g transform="translate(140,14)"><g fill="none" stroke="#0B2E4F" stroke-width="12" clip-path="url(#capclip)">
+<path d="M35.86 13.25 A16 14.5 0 1 0 22 35 A16 14.5 0 1 1 8.14 56.75"/>
+<g transform="translate(56,0)"><path d="M6 -5 V75 M48 -5 V75 M6 35 H48"/></g>
+<g transform="translate(122,0)"><path d="M13.7 50 H52.3" stroke="#08808D" stroke-width="10"/><path d="M36.857 -10 L2.14 80 M29.143 -10 L63.86 80"/></g>
+<g transform="translate(200,0)"><path d="M6 -5 V75"/><path d="M6 6 H26 A16 16 0 0 1 26 38 H6"/><path d="M24 38 L44 76"/></g>
+<g transform="translate(260,0)"><path d="M6 -5 V75"/><path d="M10 42 L46 -6"/><path d="M19 30 L49 78"/></g>
+</g></g>
+<text x="140" y="110" font-family="'Century Gothic','Segoe UI',Arial,sans-serif" font-weight="700" font-size="16" fill="#08808D" textLength="311" lengthAdjust="spacing">FRESHWATER SUPPLY</text>
+</svg>
