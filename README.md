@@ -153,7 +153,7 @@ Shark Co. Ltd is **in the process of incorporation**. Borehole drilling is deliv
 
 ## 📞 Contact
 
-**Hassan Maweje**, Managing Director · Chibuli, Kampala, Uganda
+**Hassan Maweje**, Managing Director · Kibuli, Kampala, Uganda
 📱 [WhatsApp](https://wa.me/256756191226) · ☎️ [0756 191 226](tel:+256756191226)
 
 <div align="center">
