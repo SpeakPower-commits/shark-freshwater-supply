@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420" role="img" aria-labelledby="t d">
+<title id="t">Shark Freshwater Supply</title><desc id="d">Shark logo over layered water waves with the tagline: We find the water. We build it right.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B2E4F"/><stop offset=".6" stop-color="#0A4F66"/><stop offset="1" stop-color="#08808D"/></linearGradient>
+<radialGradient id="glow" cx=".18" cy=".35" r=".6"><stop offset="0" stop-color="#2DB9C8" stop-opacity=".35"/><stop offset="1" stop-color="#2DB9C8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="420" fill="url(#bg)"/><rect width="1280" height="420" fill="url(#glow)"/>
+<g fill="none" stroke="#2DB9C8" stroke-opacity=".12" stroke-width="2"><circle cx="1130" cy="90" r="60"/><circle cx="1130" cy="90" r="110"/><circle cx="1130" cy="90" r="170"/><circle cx="1130" cy="90" r="240"/></g>
+<g transform="translate(112,60) scale(1.5)">
+<defs><clipPath id="bncap"><rect x="-20" y="0" width="400" height="70"/></clipPath></defs>
+<g>
+<path d="M60 6 L93.55 45.54 A44 44 0 1 1 26.45 45.54 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round"/>
+<path d="M46 96 C55 86 56 66 58 46 C68 55 80 74 86 96 Z" fill="#0B2E4F"/>
+<path d="M26 96 C30 90 31 85 31 78 C36 82 41 89 43 96 Z" fill="#0B2E4F"/>
+<path d="M27 98 Q35 91.5 43 98 T59 98 T75 98 T91 98" fill="none" stroke="#08808D" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37 107 Q43 102 49 107 T61 107 T73 107 T85 107" fill="none" stroke="#08808D" stroke-width="4" stroke-linecap="round" opacity="0.55"/>
+</g>
+<g transform="translate(140,14)"><g fill="none" stroke="#FFFFFF" stroke-width="12" clip-path="url(#bncap)">
+<path d="M35.86 13.25 A16 14.5 0 1 0 22 35 A16 14.5 0 1 1 8.14 56.75"/>
+<g transform="translate(56,0)"><path d="M6 -5 V75 M48 -5 V75 M6 35 H48"/></g>
+<g transform="translate(122,0)"><path d="M13.7 50 H52.3" stroke="#2DB9C8" stroke-width="10"/><path d="M36.857 -10 L2.14 80 M29.143 -10 L63.86 80"/></g>
+<g transform="translate(200,0)"><path d="M6 -5 V75"/><path d="M6 6 H26 A16 16 0 0 1 26 38 H6"/><path d="M24 38 L44 76"/></g>
+<g transform="translate(260,0)"><path d="M6 -5 V75"/><path d="M10 42 L46 -6"/><path d="M19 30 L49 78"/></g>
+</g></g>
+<text x="140" y="110" font-family="'Century Gothic','Segoe UI',Arial,sans-serif" font-weight="700" font-size="16" fill="#2DB9C8" textLength="311" lengthAdjust="spacing">FRESHWATER SUPPLY</text>
+</g>
+<text x="112" y="306" font-family="Georgia,'Times New Roman',serif" font-size="40" font-weight="700" fill="#FFFFFF">We find the water. We build it right.</text>
+<text x="114" y="344" font-family="'Segoe UI',Calibri,Arial,sans-serif" font-size="19" letter-spacing="4" fill="#D9962B" font-weight="700">SURVEY-LED  ·  STANDARDS-DRIVEN  ·  COMMUNITY-FIRST</text>
+<path d="M0 372 C160 340 320 400 480 368 S800 336 960 372 S1180 396 1280 366 V420 H0Z" fill="#2DB9C8" fill-opacity=".28"/>
+<path d="M0 392 C180 366 340 416 520 388 S840 362 1000 392 S1200 410 1280 388 V420 H0Z" fill="#FFFFFF" fill-opacity=".92"/>
+</svg>
