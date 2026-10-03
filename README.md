@@ -115,6 +115,8 @@ Every image slot ships with an illustrated placeholder, so the site looks finish
 | `team.jpg` | About, team on site | Landscape 16:10 |
 | `work-survey.jpg`, `work-tank.jpg`, `work-wells.jpg`, `work-farm.jpg`, `work-sanitation.jpg`, `work-training.jpg` | Our Work cards and Home preview | Landscape 4:3, about 800 px wide |
 
+> **Current status of the hero photos:** `hero-3.jpg` (irrigation) is a clean, full-resolution image. `hero-1.jpg` and `hero-2.jpg` are **watermarked iStock previews** used only as stand-ins. Replace them with licensed or own photographs before the site goes live, keeping the same file names. Stock photos belong in the hero only; the **Our Work** page must show Shark's own projects.
+
 **Rules for every photo:** compress it (aim for under 250 KB), record the **place, date and consent**, and then fill those details into the matching card in [`work.html`](work.html).
 
 ## ✅ Go-live checklist
